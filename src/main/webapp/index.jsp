@@ -7,5 +7,6 @@
 <h2>Adding more changes for testing pull strategy</h2>
 <h2>You have done a good job!!!!</h2>
 <h2>Adding another commit here !!</h2>
+<h2>commit from shalim</h2>
 </body>
 </html>
